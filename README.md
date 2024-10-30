@@ -4,11 +4,11 @@
 
 ## Project Overview
 
-This project is an implementation of a classic game, [Your Game Name], using Object-Oriented Programming (OOP) principles. The game requires players to control [describe main character, object, or mechanics briefly, e.g., "a paddle to bounce a ball and hit targets on the screen"]. This project primarily focuses on creating a modular and reusable codebase while adhering to OOP best practices.
+This project is an implementation of a classic game, [Arkanoid], using Object-Oriented Programming (OOP) principles. The game requires players to control a paddle to bounce a ball and hit targets on the screen. This project primarily focuses on creating a modular and reusable codebase while adhering to OOP best practices.
 
 ## Features
 
-- **Game Mechanics**: Includes [list core mechanics like "paddle control, ball movement, collision detection, scoring, etc."].
+- **Game Mechanics**: Includes paddle control, ball movement, collision detection, scoring, etc.
 - **Modular Design**: The game’s architecture is structured for flexibility and reusability, allowing easy maintenance and expansion.
 - **User Interface**: A graphical user interface (GUI) provides an interactive experience, enhancing engagement.
 - **OOP Principles**: The project emphasizes core OOP principles such as inheritance, polymorphism, encapsulation, and the use of abstract classes and design patterns like Observer and Singleton.
