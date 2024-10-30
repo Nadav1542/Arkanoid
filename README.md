@@ -15,14 +15,14 @@ This project is an implementation of a classic game, [Your Game Name], using Obj
 
 ## Screenshots
 
-- ![Screenshot 2024-10-30 163710](https://github.com/user-attachments/assets/b2935c6d-7f3c-448b-a60a-6e249002401e)
+ ![Screenshot 2024-10-30 163710](https://github.com/user-attachments/assets/b2935c6d-7f3c-448b-a60a-6e249002401e)
  
-- ![Screenshot 2024-10-30 163616](https://github.com/user-attachments/assets/0badbd8b-1ff3-4413-9e6e-3d32fd639f3c)
+ ![Screenshot 2024-10-30 163616](https://github.com/user-attachments/assets/0badbd8b-1ff3-4413-9e6e-3d32fd639f3c)
   
--  ![Screenshot 2024-10-30 163649](https://github.com/user-attachments/assets/31687a80-50a9-475e-8dc5-be7c765a3fba)
+  ![Screenshot 2024-10-30 163649](https://github.com/user-attachments/assets/31687a80-50a9-475e-8dc5-be7c765a3fba)
  
 
-*Screenshots to provide a visual insight into the game.*
+
 
 ## How to Run
 
